@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\funes\OneDrive\Escritorio\Progra Web2\MiniProyectoAgil\MiniProyectoAgil\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\funes\OneDrive\Escritorio\Progra Web2\MiniProyectoAgil\MiniProyectoAgil\.editorconfig" />
+  </ItemGroup>
+
 </Project>
