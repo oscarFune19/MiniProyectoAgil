@@ -1,4 +1,4 @@
-﻿Console.WriteLine("=== CALCULADORA BÁSICA ===");
+Console.WriteLine("=== CALCULADORA BÁSICA ===");
 
 double numero1 = LeerNumero("Ingrese el primer número: ");
 double numero2 = LeerNumero("Ingrese el segundo número: ");
@@ -60,3 +60,4 @@ static double LeerNumero(string mensaje)
         Console.WriteLine("Entrada no válida. Ingrese un número.");
     }
 }
+
